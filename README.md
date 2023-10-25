@@ -1,1 +1,1 @@
-# Compiler-Construction
+# CC-Lab
